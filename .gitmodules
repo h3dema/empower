@@ -1,0 +1,3 @@
+[submodule "empower-controller"]
+	path = empower-controller
+	url = git@github.com:rriggio/empower-controller.git
