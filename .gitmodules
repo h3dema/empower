@@ -1,9 +1,6 @@
 [submodule "empower-controller"]
 	path = empower-controller
 	url = git@github.com:rriggio/empower-controller.git
-[submodule "empower-packages"]
-	path = empower-packages
-	url = git@github.com:rriggio/empower-packages.git
 [submodule "empower-agent"]
 	path = empower-agent
 	url = git@github.com:rriggio/empower-agent.git
