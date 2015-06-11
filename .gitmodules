@@ -7,3 +7,6 @@
 [submodule "empower-openwrt"]
 	path = empower-openwrt
 	url = git@github.com:rriggio/empower-openwrt.git
+[submodule "empower-packages"]
+	path = empower-packages
+	url = git@github.com:rriggio/empower-packages.git
