@@ -7,3 +7,6 @@
 [submodule "empower-agent"]
 	path = empower-agent
 	url = git@github.com:rriggio/empower-agent.git
+[submodule "empower-openwrt"]
+	path = empower-openwrt
+	url = git@github.com:rriggio/empower-openwrt.git
